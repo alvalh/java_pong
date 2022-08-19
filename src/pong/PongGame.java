@@ -1,0 +1,10 @@
+package pong;
+
+public class PongGame {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		GameFrame game = new GameFrame();
+		}
+
+}
